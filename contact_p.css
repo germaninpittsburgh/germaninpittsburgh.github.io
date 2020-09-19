@@ -1,0 +1,182 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 7:25:10 Dec 23, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:14:27 Sep 6, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc02               { /* Common */
+	border          :   0.00pt none #ffffff;
+	clip            : rect(0.00pt,654.75pt,12.75pt,0.00pt);
+	}
+.cc03               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc04               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : right;
+	}
+.cc05               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+span#e18            { /* link_bar2.jpg */
+	background      : transparent url(/link_bar2.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 104.25pt;
+	width           : 663.00pt;
+	height          :  36.75pt;
+	}
+span#e17            { /* contact001016.gif */
+	background      : transparent url(/contact001016.gif) no-repeat top left;
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 144.75pt;
+	width           : 654.75pt;
+	height          : 507.75pt;
+	}
+span#e16            { /* contact001015.gif */
+	background      : transparent url(/contact001015.gif) no-repeat top left;
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 148.50pt;
+	width           : 654.75pt;
+	height          :  12.75pt;
+	}
+img#e15             { /* dank_logo.jpg */
+	position        : absolute;
+	left            :  42.00pt;
+	top             :  17.25pt;
+	width           : 663.00pt;
+	height          :  85.50pt;
+	}
+div#e14             { /* <DIV><FONT color="#a0000... */
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 146.25pt;
+	width           : 136.50pt;
+	height          :  14.25pt;
+	}
+div#e13             { /* <DIV><FONT color="#99999... */
+	position        : absolute;
+	left            : 465.00pt;
+	top             : 655.50pt;
+	width           :  81.00pt;
+	height          :  15.00pt;
+	}
+div#e12             { /* <DIV align="center"><FON... */
+	position        : absolute;
+	left            :  48.00pt;
+	top             : 691.50pt;
+	width           : 651.75pt;
+	height          :  14.25pt;
+	}
+div#e11             { /* <DIV><FONT color="#99999... */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 655.50pt;
+	width           : 102.00pt;
+	height          :  15.00pt;
+	}
+img#e10             { /* eagle_shield2.jpg */
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 489.00pt;
+	width           : 112.50pt;
+	height          : 127.50pt;
+	}
+div#e9              {
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 220.50pt;
+	width           : 487.50pt;
+	height          : 255.00pt;
+	}
+div#e8              { /* <DIV><FONT size="2">To r... */
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 196.50pt;
+	width           : 488.25pt;
+	height          :  21.75pt;
+	}
+img#e7              { /* contact001013.gif */
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 107.25pt;
+	width           :  45.00pt;
+	height          :  26.25pt;
+	}
+img#e6              { /* contact001011.jpg */
+	position        : absolute;
+	left            :  98.25pt;
+	top             : 107.25pt;
+	width           :  48.00pt;
+	height          :  26.25pt;
+	}
+img#e5              { /* contact001009.jpg */
+	position        : absolute;
+	left            : 147.00pt;
+	top             : 107.25pt;
+	width           :  83.25pt;
+	height          :  26.25pt;
+	}
+img#e4              { /* contact001007.jpg */
+	position        : absolute;
+	left            : 231.00pt;
+	top             : 107.25pt;
+	width           :  89.25pt;
+	height          :  26.25pt;
+	}
+img#e3              { /* contact001005.jpg */
+	position        : absolute;
+	left            : 321.00pt;
+	top             : 107.25pt;
+	width           :  73.50pt;
+	height          :  26.25pt;
+	}
+img#e2              { /* contact001003.jpg */
+	position        : absolute;
+	left            : 395.25pt;
+	top             : 107.25pt;
+	width           :  79.50pt;
+	height          :  26.25pt;
+	}
+img#e1              { /* contact001001.jpg */
+	position        : absolute;
+	left            : 603.75pt;
+	top             : 107.25pt;
+	width           :  88.50pt;
+	height          :  26.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #e5e5e5;
+	position        : relative;
+	width           : 750.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #e5e5e5;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/
