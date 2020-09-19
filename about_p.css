@@ -1,0 +1,205 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 7:52:04 Dec 23, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:14:20 Sep 6, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc02               { /* Common */
+	border          :   0.00pt none #ffffff;
+	clip            : rect(0.00pt,654.75pt,12.75pt,0.00pt);
+	}
+.cc03               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc04               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : right;
+	}
+.cc05               { /* Common */
+	border          :   0.00pt none #808080;
+	clip            : rect(0.00pt,612.00pt,0.75pt,0.00pt);
+	}
+span#e21            { /* link_bar2.jpg */
+	background      : transparent url(/link_bar2.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 104.25pt;
+	width           : 663.00pt;
+	height          :  36.75pt;
+	}
+span#e20            { /* about001017.gif */
+	background      : transparent url(/about001017.gif) no-repeat top left;
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 144.75pt;
+	width           : 654.75pt;
+	height          : 755.25pt;
+	}
+span#e19            { /* about001016.gif */
+	background      : transparent url(/about001016.gif) no-repeat top left;
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 148.50pt;
+	width           : 654.75pt;
+	height          :  12.75pt;
+	}
+img#e18             { /* dank_logo.jpg */
+	position        : absolute;
+	left            :  42.00pt;
+	top             :  17.25pt;
+	width           : 663.00pt;
+	height          :  85.50pt;
+	}
+div#e17             { /* <DIV><FONT color="#a0000... */
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 146.25pt;
+	width           : 136.50pt;
+	height          :  14.25pt;
+	}
+div#e16             { /* <DIV><FONT color="#99999... */
+	position        : absolute;
+	left            : 465.00pt;
+	top             : 903.00pt;
+	width           :  81.00pt;
+	height          :  15.00pt;
+	}
+div#e15             { /* <DIV align="center"><FON... */
+	position        : absolute;
+	left            :  48.00pt;
+	top             : 926.25pt;
+	width           : 651.75pt;
+	height          :  14.25pt;
+	}
+div#e14             { /* <DIV><FONT color="#99999... */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 903.00pt;
+	width           : 102.00pt;
+	height          :  15.00pt;
+	}
+div#e13             { /* <DIV><STRONG><FONT color... */
+	position        : absolute;
+	left            : 233.25pt;
+	top             : 348.00pt;
+	width           : 443.25pt;
+	height          : 546.00pt;
+	}
+div#e12             { /* <DIV><STRONG><FONT color... */
+	position        : absolute;
+	left            : 233.25pt;
+	top             : 198.00pt;
+	width           : 443.25pt;
+	height          : 101.25pt;
+	}
+img#e11             { /* eagle_shield2.jpg */
+	position        : absolute;
+	left            :  81.00pt;
+	top             : 345.75pt;
+	width           : 112.50pt;
+	height          : 127.50pt;
+	}
+img#e10             { /* dank_shield2.jpg */
+	position        : absolute;
+	left            :  80.25pt;
+	top             : 182.25pt;
+	width           : 112.50pt;
+	height          : 127.50pt;
+	}
+span#e9             { /* about001015.gif */
+	background      : transparent url(/about001015.gif) no-repeat top left;
+	position        : absolute;
+	left            :  68.25pt;
+	top             : 324.75pt;
+	width           : 612.00pt;
+	height          :   0.75pt;
+	}
+div#e8              { /* <DIV><FONT size="2"><STR... */
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 506.25pt;
+	width           : 139.50pt;
+	height          : 362.25pt;
+	}
+img#e7              { /* about001013.gif */
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 107.25pt;
+	width           :  45.00pt;
+	height          :  26.25pt;
+	}
+img#e6              { /* about001011.jpg */
+	position        : absolute;
+	left            :  98.25pt;
+	top             : 107.25pt;
+	width           :  48.00pt;
+	height          :  26.25pt;
+	}
+img#e5              { /* about001009.jpg */
+	position        : absolute;
+	left            : 147.00pt;
+	top             : 107.25pt;
+	width           :  83.25pt;
+	height          :  26.25pt;
+	}
+img#e4              { /* about001007.jpg */
+	position        : absolute;
+	left            : 231.00pt;
+	top             : 107.25pt;
+	width           :  89.25pt;
+	height          :  26.25pt;
+	}
+img#e3              { /* about001005.jpg */
+	position        : absolute;
+	left            : 321.00pt;
+	top             : 107.25pt;
+	width           :  73.50pt;
+	height          :  26.25pt;
+	}
+img#e2              { /* about001003.jpg */
+	position        : absolute;
+	left            : 395.25pt;
+	top             : 107.25pt;
+	width           :  79.50pt;
+	height          :  26.25pt;
+	}
+img#e1              { /* about001001.jpg */
+	position        : absolute;
+	left            : 603.75pt;
+	top             : 107.25pt;
+	width           :  88.50pt;
+	height          :  26.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #e5e5e5;
+	position        : relative;
+	width           : 750.00pt;
+	height          : 960.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #e5e5e5;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/
